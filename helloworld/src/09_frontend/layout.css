@@ -1,0 +1,36 @@
+.r { background-color: pink; }
+.g { background-color: palegreen; }
+.b { background-color: skyblue; }
+
+flex-2column header {
+  padding-bottom: 40px;
+  background-color: #f4769a;
+  border: 2px solid #000;
+}
+
+.flex-2column main {
+  display: flex;
+  padding: 20px;
+  background-color: #eaeaea;
+  border: 2px solid #000;
+}
+
+.flex-2column article {
+  width: 70%;
+  padding-bottom: 40px;
+  background-color: #ffe966;
+  border: 2px solid #000;
+}
+
+.flex-2column aside {
+  width: 30%;
+  background-color: #6df2c9;
+  border: 2px solid #000;
+}
+
+.flex-2column footer {
+  padding-bottom: 40px;
+  background-color: #2f92dd;
+  border: 2px solid #000;
+}
+
